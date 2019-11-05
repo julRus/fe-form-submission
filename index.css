@@ -1,0 +1,11 @@
+.inValid {
+  background-color: rgba(255, 0, 64, 0.767);
+}
+
+.valid {
+  background-color: rgb(102, 179, 102);
+}
+
+/* form {
+  background-color: black;
+} */
